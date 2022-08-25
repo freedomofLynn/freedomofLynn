@@ -14,7 +14,7 @@ class Lynn:
       "name" : self.name,
       "hobby" : self.hobby,
       "age" : self.age,
-      "favorit" : self.husbu
+      "favorit" : self.favorit
     }
   
 if __name__ == "__main__":
