@@ -4,7 +4,7 @@
 ```python
 class Lynn:
   def __init__(self)
-    self.name = "Lina Cahyani"
+    self.name = "adios"
     self.hobby = "Playing game"
     self.favorit = "Nothing"
     self.age = "19"
