@@ -2,14 +2,14 @@
 <br>
 
 ```python
-class Lynn:
+class me:
   def __init__(self)
     self.name = "adios"
     self.hobby = "Playing game"
     self.favorit = "Nothing"
     self.age = "19"
   
-  def me(self)
+  def human(self)
     return {
       "name" : self.name,
       "hobby" : self.hobby,
@@ -18,13 +18,13 @@ class Lynn:
     }
   
 if __name__ == "__main__":
-  print(Lynn.me())
+  print(me.human())
 ```
 
 <br>
 
 <p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=Lynn&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Lynn" /> 
+    alt="human" /> 
   </p>
 
 <br>
